@@ -7,3 +7,10 @@
 How does this company use technology to their advantage? - Vanguard uses roboadvisors to help customers have an efficient and low cost experience when making an investment decision.
 
 Why are they considered a FinTech company? Vanguard offers financial products and allows customers to proceed with investment decisions without the human interaction by using technology
+
+
+##  Vanguard in the FinTech space
+
+This company has positioned itself as one of the main compatitors in the 
+Investment space by creating Vanguard Personal Investor; an application that makes tradings easy and 
+accessible for small and big Investors.
